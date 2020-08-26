@@ -1,0 +1,11 @@
+.nav {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 1012px;
+  height: 94px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  padding: 38px 104px 0px 84px;
+}

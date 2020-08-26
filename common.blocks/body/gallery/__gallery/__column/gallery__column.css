@@ -1,0 +1,8 @@
+.gallery__column {
+    width: 388px;
+    height: 305px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 66px 0px 0px 0px;
+}

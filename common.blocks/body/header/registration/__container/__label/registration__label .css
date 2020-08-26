@@ -1,0 +1,11 @@
+.registration__label {
+    width: 267px;
+    height: 19px;
+    color: #130e27;
+    font-family: 'PT Serif';
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 25px;
+    letter-spacing: -0.4px;
+    white-space: nowrap;
+}

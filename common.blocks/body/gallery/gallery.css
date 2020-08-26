@@ -1,0 +1,8 @@
+.gallery {
+    width: 1011px;
+    height: 421px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 151px auto 0px auto;
+}

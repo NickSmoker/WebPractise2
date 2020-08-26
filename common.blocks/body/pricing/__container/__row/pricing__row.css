@@ -1,0 +1,8 @@
+.pricing__row {
+    width: 994px;
+    height: 391px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 57px 0px 0px 0px;
+}

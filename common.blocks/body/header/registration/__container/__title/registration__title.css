@@ -1,0 +1,13 @@
+.registration__title {
+    width: 208px;
+    height: 19px;
+    color: #130e27;
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: -0.44px;
+    margin: 0 auto;
+    margin-bottom: 15px;
+    white-space: nowrap;
+}

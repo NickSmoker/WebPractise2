@@ -1,0 +1,7 @@
+.gallery__comment_bg_grey {
+    background-image: url(../../../../../../resources/gallery/gallery__comment-bg.png);
+    background-size: 430px 142px;
+    background-origin: border-box;
+    background-repeat: no-repeat;
+    background-position: 0% 10%;
+}

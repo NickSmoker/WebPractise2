@@ -1,0 +1,7 @@
+.gallery__image {
+    width: 105px;
+    height: 105px;
+    object-fit: none;
+    box-shadow: 1px 5px 15px 1px rgba(137, 137, 137, 0.71);
+    border-radius: 110px;
+}

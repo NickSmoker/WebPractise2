@@ -1,0 +1,8 @@
+.nav__list {
+  width: 535px;
+  height: 37px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  margin: auto;
+}

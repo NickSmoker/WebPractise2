@@ -1,0 +1,8 @@
+.pricing__image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 91px;
+    height: 105px;
+    align-self: baseline;
+}

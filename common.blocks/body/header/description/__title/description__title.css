@@ -1,0 +1,16 @@
+.description__title {
+    width: 483px;
+    height: 146px;
+    font-family: Montserrat;
+    font-size: 90px;
+    font-weight: 700;
+    line-height: 80px;
+    text-transform: uppercase;
+    letter-spacing: -1.8px;
+    color: #ffffff;
+    white-space: nowrap;
+}
+
+.dark {
+    color: #130e27;
+}

@@ -1,0 +1,10 @@
+.pricing__item {
+    position: relative;
+    width: 318px;
+    height: 391px;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+}

@@ -1,0 +1,7 @@
+.services__item {
+    width: 165px;
+    height: 242px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

@@ -1,0 +1,8 @@
+.gallery__testimonial {
+    width: 486px;
+    height: 418px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+}

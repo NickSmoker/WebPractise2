@@ -1,0 +1,6 @@
+.background {
+    position: absolute;
+    width: 1200px;
+    height: 2700px;
+    z-index: -1;
+}

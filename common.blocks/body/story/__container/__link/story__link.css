@@ -1,0 +1,15 @@
+.story__link {
+    width: 269px;
+    height: 64px;
+    background-color: #c62314;
+    color: #ffffff;
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: center;
+    line-height: 64px;
+    letter-spacing: -0.44px;
+    border-radius: 5px;
+}

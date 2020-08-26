@@ -1,0 +1,7 @@
+.gallery__row {
+    width: 384px;
+    height: 106px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

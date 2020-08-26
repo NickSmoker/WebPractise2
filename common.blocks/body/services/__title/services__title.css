@@ -1,0 +1,17 @@
+.services__title {
+    width: 363px;
+    height: 37px;
+    color: #130e27;
+    font-family: Couture;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 80px;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+    white-space: nowrap;
+}
+
+.red {
+    color: #c62314;
+    letter-spacing: -1px;
+}

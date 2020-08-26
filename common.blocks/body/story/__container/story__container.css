@@ -1,0 +1,8 @@
+.story__container {
+    width: 991px;
+    height: 64px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 31px 100px 28px 110px;
+}

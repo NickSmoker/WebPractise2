@@ -1,0 +1,10 @@
+.pricing__price {
+    color: #c62314;
+    font-family: Montserrat;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 80px;
+    text-transform: uppercase;
+    letter-spacing: -1.2px;
+    text-align: center;
+}

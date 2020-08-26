@@ -1,0 +1,4 @@
+.gallery__textbox {
+    display: flex;
+    flex-direction: column;
+}

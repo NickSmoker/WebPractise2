@@ -1,0 +1,8 @@
+.services__conteiner {
+    width: 990px;
+    height: 246px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 90px 0px 0px 1px;
+}
